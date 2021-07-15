@@ -1,0 +1,138 @@
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.exe.config
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.exe
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.pdb
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.xml
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.main.resources
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.Resources.resources
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.novo_recado.resources
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.exe
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.xml
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.pdb
+E:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.licenca.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\bin\Debug\MessageFrom.exe.config
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\MessageFrom.exe
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\MessageFrom.xml
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\MessageFrom.pdb
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\bin\Debug\MessageFrom.exe
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\bin\Debug\MessageFrom.pdb
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\bin\Debug\MessageFrom.xml
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\MessageFrom.licenca.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\MessageFrom.main.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\MessageFrom.Resources.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\MessageFrom.novo_recado.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2012\Projects\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.exe.config
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.exe
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.xml
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.pdb
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.exe
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.pdb
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.xml
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.licenca.resources
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.main.resources
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.Resources.resources
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.novo_recado.resources
+J:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.exe.config
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.exe
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.xml
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.pdb
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.exe
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.pdb
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\MessageFrom.xml
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.licenca.resources
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.main.resources
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.Resources.resources
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\MessageFrom.novo_recado.resources
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe.manifest
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.application
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.exe.manifest
+D:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.application
+F:\Siael Carvalho\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe.config
+F:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.exe
+F:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.xml
+F:\Siael Carvalho\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.pdb
+E:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe.config
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.exe
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.xml
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.pdb
+E:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe.manifest
+E:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.application
+E:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe
+E:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.pdb
+E:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.xml
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.licenca.resources
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.main.resources
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.Resources.resources
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.novo_recado.resources
+E:\Projetos\VS\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.exe.manifest
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.application
+E:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.tarefas.resources
+D:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe.config
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.exe
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.xml
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.pdb
+D:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe.manifest
+D:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.application
+D:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.exe
+D:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.pdb
+D:\Projetos\VS\Recados\Recados\bin\Debug\messageFrom.xml
+D:\Projetos\VS\Recados\Recados\obj\Debug\Recados.vbprojResolveAssemblyReference.cache
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.licenca.resources
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.main.resources
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.Resources.resources
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.novo_recado.resources
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.tarefas.resources
+D:\Projetos\VS\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.exe.manifest
+D:\Projetos\VS\Recados\Recados\obj\Debug\messageFrom.application
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.exe
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.xml
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.pdb
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\Recados.vbprojResolveAssemblyReference.cache
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.licenca.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.main.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.Resources.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.novo_credito.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.novo_recado.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.tarefas.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\bin\Debug\messageFrom.exe.manifest
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\bin\Debug\messageFrom.application
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\bin\Debug\messageFrom.exe
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\bin\Debug\messageFrom.pdb
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\bin\Debug\messageFrom.xml
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.exe.manifest
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.application
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.nova_terceirização.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.ativar.resources
+C:\Users\Siael Carvalho\Documents\Visual Studio 2015\Projects\Recados\Recados\obj\Debug\messageFrom.atualização.resources
+C:\Users\siael\source\repos\Recados\Recados\bin\Debug\messageFrom.exe.manifest
+C:\Users\siael\source\repos\Recados\Recados\bin\Debug\messageFrom.application
+C:\Users\siael\source\repos\Recados\Recados\bin\Debug\messageFrom.exe
+C:\Users\siael\source\repos\Recados\Recados\bin\Debug\messageFrom.pdb
+C:\Users\siael\source\repos\Recados\Recados\bin\Debug\messageFrom.xml
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\Recados.vbprojResolveAssemblyReference.cache
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.ativar.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.atualização.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.licenca.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.main.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.Resources.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.nova_priorid.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.novo_credito.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.novo_recado.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.tarefas.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.nova_terceirização.resources
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\Recados.vbproj.GenerateResource.Cache
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\Recados.vbproj.CoreCompileInputs.cache
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.exe.manifest
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.application
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.exe
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.xml
+C:\Users\siael\source\repos\Recados\Recados\obj\Debug\messageFrom.pdb
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\Recados\Recados\obj\Debug\messageFrom.exe
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\Recados\Recados\obj\Debug\messageFrom.xml
+C:\Users\siael\iCloudDrive\Projetos\Visual Studio\Recados\Recados\obj\Debug\messageFrom.pdb

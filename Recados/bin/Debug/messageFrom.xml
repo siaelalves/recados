@@ -1,0 +1,157 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+messageFrom
+</name>
+</assembly>
+<members>
+<member name="T:messageFrom.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources._403_Money">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.cliente">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.if_025_Notebook_183587">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.if_39_Exit_Arrow_Door_Signout_Out_Close_2142693">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.if_4_2135935">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.if_bin_383180_512">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:messageFrom.My.Resources.Resources.licenca">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a {\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Segoe UI;}}
+{\colortbl ;\red0\green0\blue10;}
+{\*\generator Riched20 10.0.10586}\viewkind4\uc1 
+\pard\keepn\nowidctlpar\sb240\sa120\qc\cf1\b\f0\fs28\lang1046 Licen\&apos;e7a do Message From\fs56\par
+
+\pard\keepn\nowidctlpar\sb60\sa120\qc\b0\fs28 12 de fevereiro de 2016\fs36\par
+
+\pard\nowidctlpar\sa140\sl288\slmult1\fs28 A menos que esteja especificado, toda a documenta\&apos;e7\&apos;e3o e software inclu\&apos;eddo em Message From \&apos;e9 propriedade int [o restante da cadeia de caracteres foi truncado]&quot;;.
+</summary>
+</member>
+<member name="M:messageFrom.Tabelas.NúmeroDeColunas(System.Data.DataTable)">
+ <summary>
+ Obtém o número de colunas de uma tabela.
+ </summary>
+ <param name="tabela">Tabela desejada para obter o número de colunas.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.NúmeroDeColunas(System.String)">
+ <summary>
+ Obtém o número de colunas de uma tabela.
+ </summary>
+ <param name="tabela">Tabela desejada para obter o número de colunas.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.NúmeroDeLinhas(System.Data.DataTable)">
+ <summary>
+ Obtém o número de linhas de uma tabela.
+ </summary>
+ <param name="tabela">Tabela desejada para obter o número de linhas.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.NúmeroDeLinhas(System.String)">
+ <summary>
+ Obtém o número de linhas de uma tabela.
+ </summary>
+ <param name="tabela">Tabela desejada para obter o número de linhas.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.NúmeroDeLinhas(System.Windows.Forms.DataGridView)">
+ <summary>
+ Obtém o número de linhas exibidas no datagrid.
+ </summary>
+ <param name="tabela">Datagrid desejado para obter o número de linhas. 
+ O número de linhas será obtido de acordo com o que está exibido na tabela.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.ObterLinhaDaTabela(System.String,System.Int32)">
+ <summary>
+ Obtém os dados de uma linha especificada.
+ </summary>
+ <param name="tabela">Nome da tabela à qual a linha pertence.</param>
+ <param name="linha">Número da linha desejada.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.ObterLinhaDaTabela(System.Data.DataTable,System.Int32)">
+ <summary>
+ Obtém os dados de uma linha especificada.
+ </summary>
+ <param name="tabela">Nome da tabela à qual a linha pertence.</param>
+ <param name="linha">Número da linha desejada.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.ObterLinhaDaTabelaComID(System.String,System.Int32)">
+ <summary>
+ Obtém os dados de uma linha especificada.
+ </summary>
+ <param name="tabela">Nome da tabela à qual a linha pertence.</param>
+ <param name="id">Número da linha desejada.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.ObterLinhaDaTabelaComID(System.Data.DataTable,System.Int32)">
+ <summary>
+ Obtém os dados de uma linha especificada.
+ </summary>
+ <param name="tabela">Nome da tabela à qual a linha pertence.</param>
+ <param name="id">Número da linha desejada.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.ObterMaiorValorDeTabelaEmColuna(System.Data.DataTable,System.String)">
+ <summary>
+ Compara todos os valores de uma coluna em cada uma das linhas de uma tabela especificada e 
+ retorna qual o maior valor da tabela.
+ </summary>
+ <param name="tabela">Nome da tabela.</param>
+ <param name="coluna">Nome da coluna. Deve armazenar valores do tipo Integer.</param>
+ <returns></returns>
+</member>
+<member name="M:messageFrom.Tabelas.EsvaziarTabela(System.Data.DataTable)">
+ <summary>
+ Apaga todas as linhas da tabela.
+ </summary>
+ <param name="tabela">Tabela para esvaziar.</param>
+</member>
+<member name="M:messageFrom.Tabelas.EsvaziarTabela(System.String)">
+ <summary>
+ Apaga todas as linhas da tabela.
+ </summary>
+ <param name="tabela">Nome da tabela para esvaziar.</param>
+</member>
+</members>
+</doc>
